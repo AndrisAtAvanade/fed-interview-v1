@@ -1,0 +1,17 @@
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 32px;
+  height: 32px;
+  background: #f1dc9e;
+  border: 1px solid #d3c089;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.active {
+  background: #89d3a0;
+  border-color: #6aa97e;
+}
