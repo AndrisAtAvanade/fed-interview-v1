@@ -9,6 +9,8 @@ You should see on your http://localhost:3000/ an app with a single button.
 Please browse the app with your favourite IDE and get familiar with the files.   
 Also, there is only one component with a corresponding SCSS file.
 
+We expect you to share your screen at the test time, which will generally be like pair programming.
+
 To give you a head start, please think about how you would create ten buttons.   
 How about ten buttons in ten rows? Can you adjust the styling accordingly?   
 Can we make a dropdown to change the number of buttons per row and amount of rows?   
