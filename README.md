@@ -1,7 +1,7 @@
 # Technical interview for Front-end developer
 
 This test aims to see your approach to different front-end tasks, implementation style, and rationale.     
-The test doesn't have an end aim and is built around discussion and how far we can go in a limited amount of time.
+The test doesn't have an end goal and is built around discussion and how far we can go in a limited amount of time.
 
 To start, please clone this application on your local machine and run `npm install` and `npm start`.   
 You should see on your http://localhost:3000/ an app with a single button.
